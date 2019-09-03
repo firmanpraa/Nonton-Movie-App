@@ -1,26 +1,21 @@
-# {{Nonton Movie App}} ( {{kode_tugas}} )
-{{Aplikasi nonton film online, spesial HUT Kemerdekaan RI ke 74. Kumpulan film-film bertema kemerdekaan.}}.
 
-## Screenshot
-{{https://i.ibb.co/yfkPdZy/Whats-App-Image-2019-09-03-at-9-49-27-PM.jpg}}.
-{{https://i.ibb.co/02mRfjf/Whats-App-Image-2019-09-03-at-9-426-PM.jpg}}.
-{{https://i.ibb.co/3FD2BhT/Whats-App-Image-2019-09-03-at-9-4927-PM.jpg}}.
-{{https://i.ibb.co/SRfn9F1/Whats-App-Image-2019-09-03-at-927-PM.jpg}}.
 
-## Built With
-{{flutter/dart}}
+# Nonton Movie App ( Tugas 2 - OSG05 )
+Aplikasi nonton film online, spesial HUT Kemerdekaan RI ke 74. Kumpulan film-film bertema kemerdekaan.
 
-## Created By
-{{Firman Noor Praadita}}
+### Screenshot
+![Flutter Apps](https://i.ibb.co/yfkPdZy/Whats-App-Image-2019-09-03-at-9-49-27-PM.jpg)
+![Flutter Apps](https://i.ibb.co/02mRfjf/Whats-App-Image-2019-09-03-at-9-426-PM.jpg)
+![Flutter Apps](https://i.ibb.co/3FD2BhT/Whats-App-Image-2019-09-03-at-9-4927-PM.jpg)
+![Flutter Apps](https://i.ibb.co/SRfn9F1/Whats-App-Image-2019-09-03-at-927-PM.jpg)
 
-## {{Eudeka: OSG 05}} Eudeka!
-{{tentang_kelas}}.
+### Built With
+- [Flutter](https://flutter.dev)
 
-## {{nama_kelas}}
-Dengan jangka waktu lebih kurang {{waktu_kelas}}, peserta diharapkan dapat {{tujuan_kelas}}.
+### Created By
+- [Firman Praadita](https://github.com/firmanpraa)
 
-## Cara Mendaftar {{jenis_kelas}}
-{{cara_daftar}}.
+---
 
 ## Info Lebih Lengkap
 Website : [www.eudeka.id](https://www.eudeka.id).
